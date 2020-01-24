@@ -1,5 +1,9 @@
 ## Тренировочное задание
 
+[Процесс решения](solution.md)
+
+[Вопросы](questions.md)
+
 ### Суть задания
  
 1. На предоставленном серевере необходимо установить Nginx  
@@ -26,7 +30,3 @@ PHP-FPM версии 7.Х.
 CMS:
 - https://www.1c-bitrix.ru/download/cms.php
 - https://wordpress.org/download/
-
-[Процесс решения](solution.md)
-
-[Вопросы](questions.md)
