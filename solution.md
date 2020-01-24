@@ -28,5 +28,4 @@
 [Углубенный разбор nginx](configuration_nginx.md)
 
 
-
-
+[Вернутся назад](README.md)
